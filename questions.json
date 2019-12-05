@@ -1,0 +1,42 @@
+[
+  {
+    "question": "1- Which of the following retains the information it’s storing when the power to the system is turned off?",
+    "a": "(a) CPU",
+    "b": "(b) ROM",
+    "c": "(c) RAM",
+    "d": "(d) DIMM",
+    "answer": "b"
+  },
+  {
+    "question": "2 -Which of the following memories must be refreshed many times per second?",
+    "a": "(a) Static RAM",
+    "b": "(b) Dynamic RAM",
+    "c": "(c) EPROM",
+    "d": "(d) ROM",
+    "answer": "b"
+  },
+  {
+    "question": "3 -USB is a device used to store data and it stands for",
+    "a": "(a) Unlimited Service Band",
+    "b": "(b) Unlimited Serial Bus",
+    "c": "(c) Universal Serial Bus",
+    "d": "(d) Universal Service Bus",
+    "answer": "c"
+  },
+  {
+    "question": "4 -A network of computers and other devices that is confined to a relatively small space is called?",
+    "a": "(a) Wide Area Network",
+    "b": "(b) Local Area Network",
+    "c": "(c) Global Network",
+    "d": "(d) Peer-to-Peer Network",
+    "answer": "b"
+  },
+  {
+    "question": "5 -Every computer connected to the Internet is identified by a unique four-part string, known as?",
+    "a": "(a) IP address",
+    "b": "(b) Host name",
+    "c": "(c) Domain name",
+    "d": "(d) None of the above",
+    "answer": "a"
+  }
+]
