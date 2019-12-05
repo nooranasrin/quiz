@@ -1,11 +1,12 @@
 let { stdin, stdout } = process;
+const chalk = require("chalk");
 let questions = require("./questions.json");
 stdin.setEncoding("utf8");
 let correctAnsCount = 0;
 
 const setTimer = () => {
   return setTimeout(() => {
-    stdout.write("\ntimeout...\n\n");
+    console.log(chalk.red("\ntimeout...\n"));
     stdin.emit("data");
   }, 10000);
 };
@@ -52,4 +53,4 @@ process.on("uncaughtException", () => {
   process.exit(0);
 });
 
-`main();
+main();
